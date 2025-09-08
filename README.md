@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @michealarumgbo
-- 👀 I’m interested in Web & App Design/Programming 
+- 👀 I’m interested in Web Dev & Design/Programming 
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me arumgbomicheal@gmail.com
